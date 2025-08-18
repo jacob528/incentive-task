@@ -1,0 +1,74 @@
+Program Overview
+The Affordable Multifamily Energy Efficiency Program (AMEEP) consists of two separate pathways that you can choose from: Comprehensive and Non-Comprehensive.
+Comprehensive
+Looking to complete a whole building energy retrofit or a project with several measures across multiple building systems? The Comprehensive pathway is for you!
+The Comprehensive pathway features:
+v Higher incentives
+v Mid-project payment
+v Easy-to-calculate incentives that are:
+· Offered on a dollar per dwelling unit basis
+· Achieved through a points-based incentive structure, where the project scope must reach at least 100 points
+Access to an energy audit, and incentives that cover up to 75% of its cost, required to guide the project scope
+Non-Comprehensive
+Working on a project with only one or a few upgrades? The Non-Comprehensive pathway is perfect for you! :unselected:
+How Incentives Work Comprehensive
+Comprehensive incentives are designed to pair greater energy saving with greater financial incentives through a two-tiered system. Incentives are offered in both tiers on a $ per dwelling unit, with a minimum of 100 points required to reach Tier 1 ($1,500 per dwelling unit) or 150 points and higher for Tier 2 ($2,000 per dwelling unit). Rates provided are valid for Con Edison and National Grid customers in the NYC and Long Island regions. To calculate incentives, we assign a set number of points per measure.
+COMPREHENSIVE PATHWAY INCENTIVE
+Tier
+Minimum Points Incentive ($/Dwelling Unit)
+Tier 1
+100
+$1,500
+Tier 2
+150
+$2,000
+COMPREHENSIVE PATHWAY INCENTIVE RATES
+40 Points Per Measure
+Window replacement; Roof/Wall Insulation; Boiler replacement
+30 Points Per Measure
+Domestic hot water heater replacements
+20 Points Per Measure
+Central cooling; Elevators; Ventilation
+10 Points Per Measure
+Air sealing; Energy management system; Pipe insulation; Steam traps; HVAC controls; Motors & drives
+5 Points Per Measure
+Appliances; Orifice plates; Boiler clean & tune; Thermostatic Radiator Valves;Common area lighting; In-unit direct install measures
+Please see additional incentives and associated points in the Program Manual at www.nyserda.ny.gov/AMEEP.
+Non-Comprehensive
+Incentives for non-comprehensive projects are determined by the specific equipment installed and/or energy savings. To see how incentives match up with each measure, check out our incentive fact sheet at www.nyserda.ny.gov/AMEEP.
+Project Example Comprehensive
+A multifamily residential building in Brooklyn with 150 units is scoped for a boiler replacement, water heater replacement, pipe insulation, air sealing, common area lighting, and in-unit lighting. The points from each measure add up to 100, putting the project in Tier 1.
+0 +
++
++
++
+40
+30 10
+10
+TOTAL
+= Tier 1
+100 pts
+5 5
+Total Incentives equal $225,000 calculated by multiplying 150 dwelling units by the Tier 1 designation of $1,500 per dwelling unit (150 x $1,500 = $225,000).
+Non-Comprehensive
+Let's take that same multifamily residential building in Brooklyn with 150 units, but assume they're only scoped for a boiler replacement (40 pts) and pipe insulation (10 pts). As the total points don't reach the 100-point minimum to qualify as a Tier 1 project, the incentives are calculated on a per-measure basis, coming out to $2,000 for pipe insulation and $80,000 for a steam boiler replacement. :selected: :selected: :selected: :selected: :selected: :unselected: :unselected: :unselected: :unselected:
+New York State Affordable Multifamily Energy Efficiency
+Program (AMEEP)
+AMEEP helps buildings reduce overall energy use by providing incentives for energy efficiency upgrades. The program, which is administered by the New York State utilities and NYSERDA, is working to support New York State in meeting its climate goals. Con Edison and National Grid are partnering in the NYC and Long Island area to serve their customers in these efforts.
+Who's Eligible?
+Existing affordable multifamily buildings with five or more residential units are eligible for AMEEP. Buildings must provide affordability documentation to qualify.
+Why Should I Apply?
+Financial incentives are available to offset the costs of upgrades that can help make your property more energy- efficient, keep your tenants comfortable, and lower your energy bills.
+Plus, you can reduce the strain on the electric and gas grids, while helping to keep New York State on track to meet its energy efficiency targets.
+Who Will Help Make These Upgrades?
+Our authorized contractor, Willdan Energy Solutions, will provide you with information about incentives and how you can apply for them.
+Get Incentives to Make Your Affordable Building More Efficient
+Scan the QR Code Below to Start Saving Money and Energy Today!
+Your guide to saving money and energy in New York State
+You can also reach out to your utility directly:
+Con Edison customers Email: Multifamily@coned.com
+National Grid customers in the NYC and Long Island regions Email: NationalGridLMI@willdan.com
+For more information, including the application, incentive fact sheets, Program Manual, and list of acceptable affordability documentation, visit: www.nyserda.ny.gov/AMEEP
+Energy Service Providers are available to help with energy audits for large projects like whole building energy retrofits, and you can select a contractor to handle equipment installation.
+conEdison
+nationalgrid
