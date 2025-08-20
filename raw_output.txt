@@ -1,0 +1,15 @@
+```json
+{
+    "program_name": null,
+    "technology": null,
+    "region": null,
+    "eligibility_rules": null,
+    "cap_amount": null,
+    "application_deadline": null,
+    "stackability_notes": null,
+    "incentive_type": null,
+    "value_per_unit": null,
+    "admin_agency": null,
+    "relevant_links": null
+}
+```

@@ -1,0 +1,15 @@
+{
+  "program_name": "Affordable Multifamily Energy Efficiency Program (AMEEP)",
+  "technology": "Energy efficiency upgrades",
+  "region": "NYC and Long Island, New York State",
+  "eligibility_rules": "Existing affordable multifamily buildings with five or more residential units. Buildings must provide affordability documentation to qualify.",
+  "cap_amount": null,
+  "application_deadline": null,
+  "stackability_notes": null,
+  "incentive_type": "Rebate",
+  "value_per_unit": "$/Dwelling Unit",
+  "admin_agency": "New York State utilities and NYSERDA",
+  "relevant_links": [
+    "www.nyserda.ny.gov/AMEEP"
+  ]
+}
